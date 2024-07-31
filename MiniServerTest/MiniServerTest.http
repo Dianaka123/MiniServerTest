@@ -1,0 +1,6 @@
+@MiniServerTest_HostAddress = http://localhost:5201
+
+GET {{MiniServerTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
